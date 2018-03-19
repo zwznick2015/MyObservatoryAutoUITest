@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:cglib:3.2.5">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib/3.2.5/cglib-3.2.5-sources.jar!/" />
+    </SOURCES>
+    <excluded>
+      <root url="jar://$USER_HOME$/sdk/android-sdk-macosx/platforms/android-27/uiautomator.jar!/" />
+    </excluded>
+  </library>
+</component>
